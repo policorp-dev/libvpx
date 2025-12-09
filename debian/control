@@ -63,3 +63,5 @@ Description: VP8 and VP9 video codec encoding/decoding tools
  on which the Theora codec was based.
  .
  This package contains the commandline tools vpxdec and vpxenc.
+
+Vcs-Git: https://github.com/policorp-dev/cups-filters.git
